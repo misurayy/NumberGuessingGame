@@ -1,24 +1,29 @@
-# Number Guessing Game
+# Number Guessing Game (Java)
 
-A beginner-friendly Python project: guess the randomly generated number!
+A beginner-friendly Java console game where you try to guess a randomly generated number between 1 and 100.
 
 ## Features
 
 - Randomly selects a number between 1 and 100
-- User guesses until the correct number is found
-- Tells you if your guess is too high or too low
-- Counts the number of attempts
+- User can make unlimited guesses until the correct number is found
+- Provides feedback if the guess is too high or too low
+- Counts and displays the number of attempts
 
 ## How to Run
 
-1. Make sure you have Python 3 installed.
-2. Save the code below as `number_guessing_game.py`.
-3. Run in your terminal:
+1. Make sure you have Java installed on your computer.
+2. Save the code as `NumberGuessingGame.java`.
+3. Open a terminal or command prompt in the folder where you saved the file.
+4. Compile the program:
     ```
-    python number_guessing_game.py
+    javac NumberGuessingGame.java
+    ```
+5. Run the program:
+    ```
+    java NumberGuessingGame
     ```
 
-## Example
+## Example Output
 
 Welcome to the Number Guessing Game!
 I'm thinking of a number between 1 and 100.

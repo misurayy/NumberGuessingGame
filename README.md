@@ -28,3 +28,8 @@ Take a guess: 75
 Too high!
 Take a guess: 63
 Congratulations! You guessed the number in 3 tries.
+
+
+## License
+
+MIT
